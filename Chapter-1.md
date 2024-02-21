@@ -1,5 +1,31 @@
 Computer programming, the art of instructing computers to perform tasks, relies on fundamental elements that form the building blocks of code. In C++, one of the most popular programming languages, these basic elements serve as the foundation for creating powerful and efficient software solutions. From variables and data types to control structures and functions, understanding these core concepts is essential for mastering both C++ and computer programming as a whole. 
 
+Chapter 1: Introducations to Computers and Programming
+
+Section 1:1: Chapter introducation.
+
+Sub-secyion 1.2.1: A Brief Overview of the history of Computers.
+
+Sub-section 1.2.2 Elements of a Computer System Discusses the key compontents that make up a coputer system.
+
+Sub-section 1.2.2a: Hardware.
+
+Describes the physical components of a computer system, including the CPU, memory and storage devices.
+
+Sub section 1.2.2b: Central Processing unit and main memory
+ Explains the role of CPU in executing intruction and the function of memory in storing data and instructions temporarily.
+
+ Sub section 1.2.2c: input/output Devices
+
+ introduces various and its role in controlling and manaaging computer hardware.
+
+ Section 1.3: basices of Computer Language
+
+ This section explains the conncepct of machine language ad how computers understand and excute instructions.
+
+ 1.4: evolution of programming languages
+
+ sub section 1.4.1: The Evolution of prgramming langue
 
 # Review Qustions 
  1. Which of the following is a input devices?
