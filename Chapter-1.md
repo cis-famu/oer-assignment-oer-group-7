@@ -25,7 +25,29 @@ Sub section 1.2.2b: Central Processing unit and main memory
 
  1.4: evolution of programming languages
 
- sub section 1.4.1: The Evolution of prgramming langue
+ sub section 1.4.1: The Evolution of prgramming languages
+
+ Trances the development and edlution of programming langues from machine
+ lnguage to high-level languaegs like C++
+
+ 1.5: Processing a C++ Progrmamming 
+ Provides an intrudction to the C++ programming and its features.
+
+ section 1.6 Progamming Methodogies 
+ introduces diffrernt programming methodologies, including structred
+ progamming and object oriented programming 
+
+ sub section1.6.2: Programming Methodologies
+
+ introduces different progamming methodes, structured programming and object- orierent programming 
+
+ 1.7: ANSI/ISO Standard C++
+Sub section 1.7.1: ANSI/ISO Standard C++
+Discusses the standardization of the the c++ programmning language by ANSI and ISO.
+
+section Chapter1.8 : Chapter review
+sub section 1.8.1 : Quick review 
+Provides a quick summaery of all the key concepts covered in Chapter 1.
 
 # Review Qustions 
  1. Which of the following is a input devices?
