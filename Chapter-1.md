@@ -81,6 +81,7 @@ Provides a quick summaery of all the key concepts covered in Chapter 1.
 
 This chapter provides backgroud on the processes and buildig blocks of computers. We cover the basic languages and the techniques that are used within computing. In order to work with computers make sure you understand the difference between input and output devices. Input deals with user interactions such as a keyboard or microphne. Output deal with devices that are used in addition to the program. For example a monitor or speaker. 
 
+-----
 Key Terms:
 Central Processing Unit- the "brain" of the computer and the most expensive hardare
 input device- devices that feed data and programs into computers
