@@ -48,9 +48,9 @@ Discusses the standardization of the the c++ programmning language by ANSI and I
 section Chapter1.8 : Chapter review
 sub section 1.8.1 : Quick review 
 Provides a quick summaery of all the key concepts covered in Chapter 1.
-
+-------
 # Review Qustions 
- 1. Which of the following is a input devices?
+ 1. Which of the following is an input device?
    
     A. Monitor
 	
@@ -61,6 +61,25 @@ Provides a quick summaery of all the key concepts covered in Chapter 1.
     D. Projector 
 
  2. What is the language of a computer?
+
+	__
+
+3. Which of the following is an output device?
+
+   A. Speaker
+
+   B. Microphone
+
+   C. Touch Screen 
+
+   D. Web came
+
+   *Key: 1. C 2. Binary code/Machine Lnaguage 3. A*
+
+-----
+# Sumary
+
+This chapter provides backgroud on the processes and buildig blocks of computers. We cover the basic languages and the techniques that are used within computing. In order to work with computers make sure you understand the difference between input and output devices. Input deals with user interactions such as a keyboard or microphne. Output deal with devices that are used in addition to the program. For example a monitor or speaker. 
 
 Key Terms:
 Central Processing Unit- the "brain" of the computer and the most expensive hardare
