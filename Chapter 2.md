@@ -1,4 +1,4 @@
-REVIEW QUESTIONS
+# REVIEW QUESTIONS
 1.Explain the role of 'cin' and 'cout' in C++ input and output operations
 2.Describe the roles of manipulators in C++ output operations.
 3.What are the five steps to opening and reading files?
@@ -8,14 +8,14 @@ REVIEW QUESTIONS
      b. setw
      c. ifstream
      d.close
-REVIEW ANSWERS
+# REVIEW ANSWERS
 1. cin is used for standard input operations in C++, while cout is used for standard output operations
 2. manipulators are used to format output, such as controlling the width of output fields, settings precision for floating-point numbers, etc.
 3. include f stream header, declare file stream variables, associate file stream with input/output sources (open files) , use file stream variables( >> << ) along with other input/output functions , close file
 4. false
 5.  B - setw (set width)
 
-KEY TERMS
+# KEY TERMS
 Stream- a sequence of characters from the source to the destination
 Input Stream- a sequence of characters from an input device to the computer (istream)
 output Stream- a sequence of character from the computer to the output device (ostream)
