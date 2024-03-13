@@ -1,4 +1,4 @@
-PROGRAMMING EXERCISE
+# PROGRAMMING EXERCISE
 int main() {
 int month, day, year;
 cout << "are you a natural born citizen y/n: " << endl;
