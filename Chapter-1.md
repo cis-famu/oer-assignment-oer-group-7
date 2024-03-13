@@ -1,3 +1,4 @@
+#Introduction
 Computer programming, the art of instructing computers to perform tasks, relies on fundamental elements that form the building blocks of code. In C++, one of the most popular programming languages, these basic elements serve as the foundation for creating powerful and efficient software solutions. From variables and data types to control structures and functions, understanding these core concepts is essential for mastering both C++ and computer programming as a whole. The following chapter will ensure proper guidance and in depth description of the basic elements of C++. From learning key terms like cout and int, to learning how to use them effectively, this chapter will serve as the baby steps to a bigger quest of C++ fluency and applicability.
 
 Chapter 1: Introducations to Computers and Programming
@@ -49,7 +50,7 @@ section Chapter1.8 : Chapter review
 sub section 1.8.1 : Quick review 
 Provides a quick summaery of all the key concepts covered in Chapter 1.
 -------
-# Review Qustions 
+# Review Questions 
  1. Which of the following is an input device?
    
     A. Monitor
@@ -77,7 +78,7 @@ Provides a quick summaery of all the key concepts covered in Chapter 1.
    *Key: 1. C 2. Binary code/Machine Lnaguage 3. A*
 
 -----
-# Sumary
+# Summary
 
 This chapter provides backgroud on the processes and buildig blocks of computers. We cover the basic languages and the techniques that are used within computing. In order to work with computers make sure you understand the difference between input and output devices. Input deals with user interactions such as a keyboard or microphne. Output deal with devices that are used in addition to the program. For example a monitor or speaker. 
 
