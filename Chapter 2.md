@@ -14,6 +14,7 @@ REVIEW ANSWERS
 3. include f stream header, declare file stream variables, associate file stream with input/output sources (open files) , use file stream variables( >> << ) along with other input/output functions , close file
 4. false
 5.  B - setw (set width)
+
 KEY TERMS
 Stream- a sequence of characters from the source to the destination
 Input Stream- a sequence of characters from an input device to the computer (istream)
