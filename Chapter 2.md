@@ -2,7 +2,7 @@ REVIEW QUESTIONS
 1.Explain the role of 'cin' and 'cout' in C++ input and output operations
 2.Describe the roles of manipulators in C++ output operations.
 3.What are the five steps to opening and reading files?
-4. true or false: #include <iomanip> is needed to open files
+4. true or false: #include '<iomanip>' is needed to open files
 5. Which of the following is a manipulator used for formatting output in C++ ?
      a. Cin
      b. setw
