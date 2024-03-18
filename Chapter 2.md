@@ -2,6 +2,21 @@
 
 In this chapter you will learn the basics of C++. 
 
+In this chapter, you'll dive into the basics of C++, the programming language used to create computer programs. But before we get started, let's answer two fundamental questions: What is a computer program? And what is programming?
+
+A computer program, simply put, is a set of instructions designed to perform a specific task. Programming, on the other hand, is the process of planning and creating these instructions. But there's more to it than that. Let's use an analogy to shed some light on the nature of programming. Think of a recipe for cooking—it's also a kind of program. And just like with cooking, there are a few things we can agree on:
+
+Following a recipe is usually easier than creating one from scratch.
+Some recipes are great, while others might not turn out so well.
+Some recipes are straightforward, while others are more complex.
+Certain recipes consistently produce good results, while others may not.
+To follow a recipe successfully, you need to understand how to use cooking tools and ingredients. Similarly, to create effective computer programs, you need to understand the basics of programming languages and how they work.
+
+Now, let's extend the cooking analogy a bit further. Imagine you're teaching someone to become a chef. How would you go about it? Would you start by introducing them to delicious dishes, hoping they develop a taste for good food? Or would you have them follow recipe after recipe, hoping they pick up some skills along the way? Or perhaps you'd begin by teaching them about kitchen tools, ingredients, and how they come together to create flavorful meals?
+
+Learning a programming language, like learning to cook or play a musical instrument, requires hands-on experience with the tools. You can't become a skilled chef just by reading cookbooks, nor can you become a proficient musician by studying musical theory alone. The same principle applies to programming—you need to understand the fundamentals of the language and practice writing code to create functional programs. So let's roll up our sleeves and start exploring the world of C++ programming!
+
+
 # REVIEW QUESTIONS
 1.Explain the role of 'cin' and 'cout' in C++ input and output operations
 2.Describe the roles of manipulators in C++ output operations.
