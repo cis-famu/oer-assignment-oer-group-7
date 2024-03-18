@@ -1,8 +1,6 @@
-#Introduction 
+Introduction 
 
-In this chapter you will learn the basics of C++. 
-
-In this chapter, you'll dive into the basics of C++, the programming language used to create computer programs. But before we get started, let's answer two fundamental questions: What is a computer program? And what is programming?
+The programming language used to create computer programs. But before we get started, let's answer two fundamental questions: What is a computer program? And what is programming?
 
 A computer program, simply put, is a set of instructions designed to perform a specific task. Programming, on the other hand, is the process of planning and creating these instructions. But there's more to it than that. Let's use an analogy to shed some light on the nature of programming. Think of a recipe for cooking—it's also a kind of program. And just like with cooking, there are a few things we can agree on:
 
