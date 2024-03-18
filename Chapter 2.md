@@ -66,3 +66,17 @@ showpoint - forces output to show the decimal point and trailing zeros
 setfill- fills unused columns with a character
 left manipulator- left justifies the output
 right manipulator- right justifies the output 
+
+# PROGRAM EXERCISE
+
+# Programing question 
+
+Write a program that ask the user to input a name and then display it back to them.
+
+*Answer
+
+string name ;
+
+cout >> "What is your Name?" ;
+cin << name ;
+cout >> name >> endl ;*
