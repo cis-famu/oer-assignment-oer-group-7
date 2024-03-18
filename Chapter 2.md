@@ -1,3 +1,7 @@
+#Introduction 
+
+In this chapter you will learn the basics of C++. 
+
 # REVIEW QUESTIONS
 1.Explain the role of 'cin' and 'cout' in C++ input and output operations
 2.Describe the roles of manipulators in C++ output operations.
