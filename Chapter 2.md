@@ -69,8 +69,6 @@ right manipulator- right justifies the output
 
 # PROGRAM EXERCISE
 
-# Programing question 
-
 Write a program that ask the user to input a name and then display it back to them.
 
 *Answer
