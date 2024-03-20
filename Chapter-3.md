@@ -15,6 +15,24 @@ To properly us the "cin" operator you must declare a vaeriable to assign the ins
 ## Section 3.3 - 3.5 
 
 
+In simpler terms, formatting output means arranging the way data appears when it's displayed. In programming, particularly in C++, we often need to control how numbers are shown, like specifying the number of decimal places for floating-point numbers or aligning columns neatly.
+
+To format output in C++, we use manipulators along with the cout statement. Manipulators are like tools that help us adjust how data is displayed. One common manipulator you've used is endl, which moves the cursor to the beginning of the next line after displaying data.
+
+Other useful manipulators include:
+
+setprecision: Specifies the number of decimal places for floating-point numbers.
+
+fixed: Ensures that floating-point numbers are always displayed in decimal format.
+
+showpoint: Forces display of decimal point, even if the number is an integer.
+
+setw: Sets the width of the field for displaying data, useful for aligning columns.
+
+For example, if you want to display a floating-point number with two decimal places, you can use cout << fixed << setprecision(2) << myNumber;. This tells the program to display myNumber with two decimal places.
+
+## Section 3.6 - 3.8 
+
 # PROGRAMMING EXERCISE
 int main() {
 int month, day, year;
