@@ -1,3 +1,20 @@
+# SECTION ANALYSIS
+
+## Section 3.1 - 3.2 
+
+Within programing there are input and output operators. In C++ these actions require streams. The two main types are: 
+
+    Input stream: This brings data from an input device (like a keyboard) into the program. 
+
+    Output stream: This sends data from the program to an output device (like a screen).
+
+Input is repersented by cin while output is cout. These are all under the iostream operater. So, to use input and output in a C++ program, we include #include <iostream> and then use 'cin' and 'cout' for reading and displaying data respectively. For example, 'cin' reads data from the keyboard, and 'cout' displays data on the screen.
+
+To properly us the "cin" operator you must declare a vaeriable to assign the inserted value to. 
+
+## Section 3.3 - 3.5 
+
+
 # PROGRAMMING EXERCISE
 int main() {
 int month, day, year;
