@@ -1,7 +1,7 @@
 # SECTION ANALYSIS
 
 ## Section 3.1 - 3.2 
-
+    
 Within programing there are input and output operators. In C++ these actions require streams. The two main types are: 
 
     Input stream: This brings data from an input device (like a keyboard) into the program. 
@@ -32,6 +32,11 @@ setw: Sets the width of the field for displaying data, useful for aligning colum
 For example, if you want to display a floating-point number with two decimal places, you can use cout << fixed << setprecision(2) << myNumber;. This tells the program to display myNumber with two decimal places.
 
 ## Section 3.6 - 3.8 
+
+If you need to read a string that includes spaces, you can use the getline function. The way you writ a getline is getline("inputStreamVariable", "stringVariabe");, where "inputStreamVariable" is where you're reading from (like "cin"), and "stringVariable" is the variable where you want to store the string. This function reads until it reaches the end of the line, including spaces, and doesn't store the newline character at the end.
+
+Similarly, you can output the contents of a string variable using "cout" and "<<". For example, if you have a string variable named "myString", you can use 
+cout << myString; to display its contents on the screen.
 
 # PROGRAMMING EXERCISE
 int main() {
