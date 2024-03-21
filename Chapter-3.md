@@ -38,6 +38,15 @@ If you need to read a string that includes spaces, you can use the getline funct
 Similarly, you can output the contents of a string variable using "cout" and "<<". For example, if you have a string variable named "myString", you can use 
 cout << myString; to display its contents on the screen.
 
+File input/output (I/O) is crucial for handling large amounts of data efficiently in programs. 
+
+To address these limitations, C++ offers file I/O. This file defines two important data types: "ifstream" for input file "istreams" and "ofstream" for output file streams. By using file stream variables and functions like "open", "close", "<<", and ">>", programs can read data from files and write output to files. 
+
+In a typical program, after including the necessary headers and declaring file stream variables (<ifstream>), the files are opened for reading or writing using the open function. Once the I/O operations are complete, it's essential to close the files using the close function.
+
+Overall, file I/O provides a structured approach for handling data efficiently, facilitating tasks like data preparation, sharing, and subsequent processing, making it a crucial aspect of programming, particularly for managing large-scale data operations.
+
+
 # PROGRAMMING EXERCISE
 int main() {
 int month, day, year;
